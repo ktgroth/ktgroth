@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Operating System Principles**
 
-- 💬 Ask me about **C++, Python, Java, Windows, Linux**
+- 💬 Ask me about **C/C++, C#, Python, Java**
 
 - 📫 How to reach me **ktgroth03@gmail.com**
 
