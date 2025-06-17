@@ -1,6 +1,6 @@
-11<h1 align="center">Hi 👋, I'm Kasen Groth</h1>
+<h1 align="center">Hi 👋, I'm Kasen Groth</h1>
 <h3 align="center">I am a Graduate of Gettysburg College with a degree in Computer Science and Mathematics</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iybbt&label=Profile%20views&color=0e75b6&style=flat" alt="iybbt" /> </p>
 
@@ -16,12 +16,12 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/php.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452088/php.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/X86_assembly_language" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373445/assembly.svg" alt="x86" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.javascript.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> </a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.javascript.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -42,11 +42,13 @@
 
 
 <p>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ktgroth&show_icons=true&locale=en" alt="iybbt" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ktgroth&show_icons=true&locale=en&include_all_commits=true&theme=dark" alt="iybbt" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ktgroth&" alt="iybbt" /></p>
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ktgroth&theme=dark&short_numbers=true" alt="GitHub Streak" />
+</p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ktgroth&show_icons=true&locale=en&layout=compact" alt="iybbt" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ktgroth&locale=en&layout=compact&theme=dark&langs_count=4" alt="iybbt" />
 </p>
