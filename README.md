@@ -2,7 +2,10 @@
     Hi 👋, I'm Kasen Groth
 </h1>
 <h3 align="center">
-    I am a Graduate from Gettysburg College with a Bachelor of Science degree in Computer Science and Mathematics
+    Graduate of Gettysburg College with a Bachelor of Science in Computer Science and Mathematics,
+</h3>
+<h3 align="center">
+    driven by a passion for problem-solving, systems design, and computational theory.
 </h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif">
 
@@ -10,9 +13,9 @@
     <img src="https://komarev.com/ghpvc/?username=iybbt&label=Profile%20views&color=0e75b6&style=flat" alt="iybbt" />
 </p>
 
-- 🌱 I’m currently learning **Operating System Principles**
+- 🌱 I’m currently learning **React** to build dynamic and responsive web applications.
 
-- 📫 How to reach me **ktgroth03@gmail.com**
+- 📫 **How to reach me:** [ktgroth03@gmail.com](mainto:ktgroth03@gmail.com).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
