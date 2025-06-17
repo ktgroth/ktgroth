@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kasen Groth</h1>
 <h3 align="center">I am a Graduate of Gettysburg College with a degree in Computer Science and Mathematics</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iybbt&label=Profile%20views&color=0e75b6&style=flat" alt="iybbt" /> </p>
 
@@ -42,11 +42,13 @@
 
 
 <p>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ktgroth&show_icons=true&locale=en" alt="iybbt" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ktgroth&show_icons=true&locale=en&include_all_commits=true&theme=dark" alt="iybbt" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ktgroth&" alt="iybbt" /></p>
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ktgroth&theme=dark&short_numbers=true" alt="GitHub Streak" />
+</p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ktgroth&show_icons=true&locale=en&layout=compact" alt="iybbt" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ktgroth&locale=en&layout=compact&theme=dark&langs_count=4" alt="iybbt" />
 </p>
