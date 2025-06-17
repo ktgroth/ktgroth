@@ -45,8 +45,9 @@
     <a href="https://www.react.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ktgroth&locale=en&layout=compact&theme=dark&langs_count=4)
+[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ktgroth&locale=en&layout=compact&theme=dark&langs_count=4)](https://git.io/readme-stats)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ktgroth&show_icons=true&locale=en&include_all_commits=true&theme=dark)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=ktgroth&show_icons=true&locale=en&include_all_commits=true&theme=dark)](https://git.io/readme-stats)
 
-![Github Streaks](https://github-readme-streak-stats.herokuapp.com?user=ktgroth&theme=dark&short_numbers=true)
+[![Github Streaks](https://streak-stats.demolab.com/?user=ktgroth&theme=dark&short_numbers=true)](https://git.io/streak-stats)
+
