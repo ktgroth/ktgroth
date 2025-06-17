@@ -42,11 +42,15 @@
 
 
 <p>
+<a href="https://git.io/readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ktgroth&show_icons=true&locale=en&include_all_commits=true&theme=dark" alt="iybbt" />
+</a>
 </p>
 
 <p>
+<a href="https://git.io/streak-stats">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ktgroth&theme=dark&short_numbers=true" alt="GitHub Streak" />
+</a>
 </p>
 
 <p>
