@@ -2,9 +2,7 @@
     Hi 👋, I'm Kasen Groth
 </h1>
 <h3 align="center">
-    Graduate of Gettysburg College with a Bachelor of Science in Computer Science and Mathematics,
-</h3>
-<h3 align="center">
+    Graduate of Gettysburg College with a Bachelor of Science in Computer Science and Mathematics,<br>
     driven by a passion for problem-solving, systems design, and computational theory.
 </h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif">
